@@ -1,5 +1,4 @@
 # Multimodal Motion Conditioned Diffusion Model for Skeleton-based Video Anomaly Detection
-_Alessandro Flaborea*, Luca Collorone*, Guido D'Amely*, Stefano D'Arrigo*, Bardh Prenkaj, Fabio Galasso_
 
 
 <p align="center">
