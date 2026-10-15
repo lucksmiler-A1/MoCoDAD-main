@@ -7,7 +7,7 @@ seed: 999
 validation: false # use validation; only for UBnormal
 use_hr: true # for validation and test on UBnormal
 diffusion_on_latent: true # if true, perform diffusion on the latent space
-
+ 
 ## Computational resources
 accelerator: 'gpu'
 devices: [0,] # indices of cuda devices to use

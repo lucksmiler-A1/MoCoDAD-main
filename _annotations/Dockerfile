@@ -1,6 +1,6 @@
 # Dockerfile for Alphapose 
 # syntax=docker/dockerfile:1
-
+ 
 # Configure the container to use the GPU
 FROM nvidia/cuda:11.6.0-runtime-ubuntu20.04 as base
 

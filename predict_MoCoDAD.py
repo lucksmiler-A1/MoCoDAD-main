@@ -8,7 +8,7 @@ from models.mocodad import MoCoDAD
 from utils.argparser import init_args
 from utils.dataset import get_dataset_and_loader
 from utils.model_utils import processing_data
-
+ 
 
 # Parse command line arguments and load config file
 parser = argparse.ArgumentParser(description='MoCoDAD')
@@ -18,7 +18,7 @@ args = yaml.load(open(args.config), Loader=yaml.FullLoader)
 args = argparse.Namespace(**args)
 args = init_args(args)
 
-# Initialize the model
+# Initialize the model  
 model = MoCoDAD(args)
 
 print('Loading data and creating loaders.....')

@@ -6,8 +6,7 @@
 
 > [!WARNING]
 > This code has been updated up to May 2022. It may rely on outdated software or may not work due to deprecated code.
-
-
+ 
 ## Annotating with Alphapose+Poseflow
 
 > [!WARNING]
